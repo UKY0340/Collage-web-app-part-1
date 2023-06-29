@@ -1,0 +1,40 @@
+.btn
+{
+width: 90px;
+height: 30px;
+}
+html,body{
+background: url(https://www.color-hex.com/palettes/88777.png);
+color: aliceblue;
+
+
+}
+h1{
+
+
+
+font-weight: bolder;
+color: rgb(222, 12, 12);
+-webkit-text-fill-color: rgb(255, 5, 5);
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color:black;
+}
+h4{
+ font-style: italic; 
+ color: red;  
+ font-weight: 600;
+ -webkit-text-stroke-color: white;
+ -webkit-text-stroke-width:1px;
+ -webkit-text-fill-color: rgb(255, 5, 5);
+}
+label{
+
+  -webkit-text-stroke-color: black; 
+  -webkit-text-stroke-width: 1px; 
+}
+
+h3{
+
+    -webkit-text-stroke-color: black; 
+    -webkit-text-stroke-width: 1px; 
+  }
